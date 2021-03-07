@@ -1,1 +1,0 @@
-class TemplateAuth extends React.Create
