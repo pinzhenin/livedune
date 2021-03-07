@@ -1,6 +1,6 @@
 class ValidateHelper {
     static regexpName = /\S/;
-    static regexpEmail = /^\S+@\S+$/;
+    static regexpEmail = /^(([^<>()\[\]\.,;:\s@\"]+(\.[^<>()\[\]\.,;:\s@\"]+)*)|(\".+\"))@(([^<>()[\]\.,;:\s@\"]+\.)+[^<>()[\]\.,;:\s@\"]{2,})$/i;
     static regexpPassword = /^\S+$/;
 
     /**

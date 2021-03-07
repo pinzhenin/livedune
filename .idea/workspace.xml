@@ -84,7 +84,7 @@
       <workItem from="1615045407208" duration="12967000" />
       <workItem from="1615097456055" duration="13374000" />
       <workItem from="1615111728042" duration="26116000" />
-      <workItem from="1615148846641" duration="25000" />
+      <workItem from="1615148846641" duration="565000" />
     </task>
     <task id="LOCAL-00001" summary="LiveDune v1.0">
       <created>1615147431562</created>
@@ -100,7 +100,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615147783362</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="LiveDune v1.0">
+      <created>1615149000911</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1615149000911</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
