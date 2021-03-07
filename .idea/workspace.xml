@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d3f8a90c-9ae0-4283-9efe-d39a5961ed1e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/public/components/FormLogin.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/public/components/FormLogin.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/components/FormRegistration.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/public/components/FormRegistration.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/components/FormResendEmail.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/public/components/FormResendEmail.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/components/FormRestorePassword.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/public/components/FormRestorePassword.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/components/SocialNetworksLogin.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/public/components/SocialNetworksLogin.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/helpers/ValidateHelper.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/helpers/ValidateHelper.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +83,8 @@
       <updated>1615045405689</updated>
       <workItem from="1615045407208" duration="12967000" />
       <workItem from="1615097456055" duration="13374000" />
-      <workItem from="1615111728042" duration="25875000" />
+      <workItem from="1615111728042" duration="26116000" />
+      <workItem from="1615148846641" duration="25000" />
     </task>
     <task id="LOCAL-00001" summary="LiveDune v1.0">
       <created>1615147431562</created>
@@ -95,7 +93,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615147431562</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="LiveDune v1.0">
+      <created>1615147783362</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1615147783362</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
