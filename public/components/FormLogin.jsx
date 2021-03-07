@@ -131,7 +131,7 @@ class FormLogin extends React.PureComponent {
                     >
                         {this.state.running ? (
                             <>
-                                <img src="/images/loader.svg" />
+                                <img src="images/loader.svg" />
                                 <span>Отправка</span>
                             </>
                         ) : (

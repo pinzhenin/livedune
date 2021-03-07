@@ -61,7 +61,7 @@ class FormRestorePassword extends React.PureComponent {
         return (
             <div className={`${this.props.className} wide`}>
                 <div className="caption">
-                    <img src="/images/icon-lock.svg" />
+                    <img src="images/icon-lock.svg" />
                 </div>
                 <div className="caption-medium">
                     Восстановить пароль
@@ -93,7 +93,7 @@ class FormRestorePassword extends React.PureComponent {
                     >
                         {this.state.running ? (
                             <>
-                                <img src="/images/loader.svg" />
+                                <img src="images/loader.svg" />
                                 <span>Отправка</span>
                             </>
                         ) : (
@@ -114,7 +114,7 @@ class FormRestorePassword extends React.PureComponent {
         return (
             <div className={`${this.props.className} wide`}>
                 <div className="caption">
-                    <img src="/images/icon-mail.svg" />
+                    <img src="images/icon-mail.svg" />
                 </div>
                 <div className="caption-medium">
                     Письмо отправлено
